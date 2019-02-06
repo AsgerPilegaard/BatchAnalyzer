@@ -1,0 +1,11 @@
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\obj\Debug\BatchAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\bin\Debug\BatchAnalyzer.exe.config
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\bin\Debug\BatchAnalyzer.exe
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\bin\Debug\BatchAnalyzer.pdb
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\obj\Debug\BatchAnalyzer.csprojAssemblyReference.cache
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\obj\Debug\BatchAnalyzer.csproj.CopyComplete
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\obj\Debug\BatchAnalyzer.exe
+C:\Users\asger\OneDrive\Desktop\Scio+\BatchAnalyzer\BatchAnalyzer\obj\Debug\BatchAnalyzer.pdb
